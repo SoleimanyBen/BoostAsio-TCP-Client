@@ -1,0 +1,3 @@
+D:/Development/C++/HBTCPClient/build/CMakeFiles/test_client.dir
+D:/Development/C++/HBTCPClient/build/CMakeFiles/ALL_BUILD.dir
+D:/Development/C++/HBTCPClient/build/CMakeFiles/ZERO_CHECK.dir
