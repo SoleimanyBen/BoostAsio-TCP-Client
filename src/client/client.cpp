@@ -6,7 +6,5 @@ void Client::do_connect()
 {
 	m_session_ = std::make_shared<Session>(m_iocontext_, m_endpoint_);
 
-
-
 	m_session_->start_session();
 }
